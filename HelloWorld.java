@@ -5,6 +5,8 @@ public class HelloWorld {
         b=20;
         c=a+b;
         System.out.println("Hello, World!");
-        System.out.println("Addityion of two numbers: "+c);
+        System.out.println("Addition of two numbers: "+c);
+        c=a*b;
+        System.out.println("Multiplication of two numbers: "+c); 
     }
 }
